@@ -77,7 +77,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Weather</finalName>
+		<finalName>spring-boot-docker</finalName>
 	</build>
 
 </project>
